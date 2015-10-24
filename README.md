@@ -1,4 +1,4 @@
-## 说明
+## Acknowledge
 
 This blog forks from [Azeril](http://azeril.me/)
 
