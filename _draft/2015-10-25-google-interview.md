@@ -29,5 +29,3 @@ tags: [google,interview]
 
     2. Write code to implement big integer multiply method with two input strings and output a string.
 
-{{ page.date | date_to_string }}
-
