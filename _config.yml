@@ -27,6 +27,7 @@ zhihu_username: xayljq
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
+encoding: "utf-8"
 highlighter: pygments
 permalink: pretty
 paginate: 8
